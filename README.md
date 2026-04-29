@@ -154,10 +154,21 @@ Limits usage to approved AWS region.
 * OU structure screenshot
 ![image alt](https://github.com/Arjun-Nalge/AWS-Multi-Account-Governance/blob/3ca35e9aefcf1e6dc00caf66cdc72e75c570c742/Screenshot%202026-04-25%20225926.png)
 * Access denied screenshots
-* README documentation
+![image alt](https://github.com/Arjun-Nalge/AWS-Multi-Account-Governance/blob/3ca35e9aefcf1e6dc00caf66cdc72e75c570c742/p4.jpg)
+![image alt](https://github.com/Arjun-Nalge/AWS-Multi-Account-Governance/blob/3ca35e9aefcf1e6dc00caf66cdc72e75c570c742/p3.jpg)
+![image alt](https://github.com/Arjun-Nalge/AWS-Multi-Account-Governance/blob/3ca35e9aefcf1e6dc00caf66cdc72e75c570c742/p2.jpg)
+![image alt](https://github.com/Arjun-Nalge/AWS-Multi-Account-Governance/blob/3ca35e9aefcf1e6dc00caf66cdc72e75c570c742/p1.jpg)
 
 ---
 
 ## 🧠 Conclusion
 
 This project demonstrates how to enforce governance across multiple AWS accounts using AWS Organizations and SCPs. It ensures security, compliance, and cost control in a scalable cloud environment.
+
+---
+
+## Author
+Arjun Nalge - DevOps Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/arjun-nalge-313642398)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Arjun-Nalge/Arjun-Nalge.git)
