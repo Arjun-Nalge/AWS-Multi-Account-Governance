@@ -152,6 +152,7 @@ Limits usage to approved AWS region.
 ## 📸 Deliverables
 
 * OU structure screenshot
+![image alt](https://github.com/Arjun-Nalge/AWS-Multi-Account-Governance/blob/3ca35e9aefcf1e6dc00caf66cdc72e75c570c742/Screenshot%202026-04-25%20225926.png)
 * Access denied screenshots
 * README documentation
 
